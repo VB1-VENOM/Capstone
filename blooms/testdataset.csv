@@ -1,0 +1,5 @@
+Type,Question,GoldenAnswer,ChatGPT,ChatGPTSimilarity,Llama,LlamaSimilarity,Mistral,MistralSimilarity,Zephyr,ZephyrSimilarity
+Knowledge,Define morphology,The study of the forms of things.,,,,,,,,
+Comprehension,Describe how interest rates affect the economy,"The lower the interest rate, the more willing people are to borrow money to make big purchases, such as houses or cars. When consumers pay less in interest, this gives them more money to spend, which can create a ripple effect of increased spending throughout the economy.",,,,,,,,
+Analysis,"Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",Natalia sold 48/2 = <<48/2=24>>24 clips in May. Natalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May. ,,,,,,,,
+Synthesis,can you propose a plan to prevent wastage of food,Buying food items in the required quantities only. Avoiding unnecessary cooking. Keeping leftover food in the refrigerator. Trying to reuse leftover by making new recipes.,,,,,,,,
